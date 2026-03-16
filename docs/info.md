@@ -8,13 +8,12 @@ You can also include images in this folder and reference them in the markdown. E
 -->
 
 ## How it works
+This chip is of a two 2bit Full adder
 
-Explain how your project works
 
 ## How to test
 
-Explain how to use your project
-
+The project sums A0 & B0 and A1&B1 and provides a carry 
 ## External hardware
 
-List external hardware used in your project (e.g. PMOD, LED display, etc), if any
+switches , LEDs 
